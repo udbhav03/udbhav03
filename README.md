@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @udbhav03
-- 👀 I’m interested in Applied Cryptography, CryptoNets, Statistical Machine Learning
-- 🌱 I’m currently learning the general approach from Algebraic Number Theory to Cryptography
-- 💞️ I’m looking to collaborate on topics related to performing statistical operations over encrypted data or analysis over encrypted data.
+- 👀 I’m interested in Generalized Linear Models and Generalized Additive Models
+- 🌱 I’m currently working on Generalized Poisson regression models and Generalized Poisson processes
 - 📫 How to reach me, Email - udbhav@students.iisertirupati.ac.in,
                      Personal Id - udalavai@icloud.com
 
